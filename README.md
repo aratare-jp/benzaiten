@@ -1,34 +1,55 @@
-# benzaiten
+# Benzaiten
 
-FIXME: description
+> Benzaiten (弁才天, 弁財天)
+>
+> ... the goddess of everything that flows: water, time, words, speech, eloquence, music and by extension, knowledge.
 
-## Installation
+A pomodoro-armed to-do list that makes everything flow seamlessly!
 
-Download from http://example.com/FIXME.
+# Status
+`Inception`, a.k.a nothing yet!
 
-## Usage
+# Installation
+TBC
 
-FIXME: explanation
+# Features
 
-    $ java -jar benzaiten-0.1.0-standalone.jar [args]
+- [ ] Basic task functionality
+    - [ ] CRUD
+    - [ ] Subtasks
+    - [ ] Timer
+    - [ ] Priority
+    - [ ] Description
+    - [ ] Copy & Paste
+    - [ ] Repetition
+    - [ ] References to other tasks
+    - [ ] Abandon-able
+- [ ] Kanban view
+    - [ ] Columns
+    - [ ] Automation
+- [ ] Podoromo timer
 
-## Options
+# Rationale
 
-FIXME: listing of options this app accepts.
+Like a lot of people, I've been searching for a good todo list app since I understood how well-organised tasks can make me work better. During this time, I've come across quite a few number of great apps, including [TickTick](https://ticktick.com). TickTick comes with a plethora of features on top of your everyday's basic todo stuff, such as:
 
-## Examples
+- Smart lists: Aggregate and customise how you want to view your lists
+- Tags: Tagging tasks based on what they are
+- Calendar: View what tasks you have in a bird-eye view
+- Pomodoro timer: Work in short bursts of 25-mins sessions to increase efficiency and focusability
+- Other views: Kanban, sorting, filtering, etc.
+- And more
 
-...
+Overall, it's a great app. Unfortunately, it does lack several features that, ironically, I have come to crave for because of TickTick's own great features:
 
-### Bugs
+- Kanban view only works in normal lists. So you can't, say, use it for smart lists or other things.
+- Kanban view is just a view with a bunch of columns. There is no automation to design how tasks should be moved around.
+- There is no way to abandon a task aside from deleting it. However, with repeative tasks, deletion is obviously not desirable.
+- Some other little things like texts are too small...
 
-...
+As such, Benzaiten is designed to address these things, and being absolutely free at the same time. For more about features that I'm planning for Benzaiten to have, check out [here](#features).
 
-### Any Other Sections
-### That You Think
-### Might be Useful
-
-## License
+# License
 
 Copyright © 2021 FIXME
 
