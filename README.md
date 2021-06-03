@@ -1,10 +1,8 @@
-# Benzaiten
+# Benzaiten (弁才天, 弁財天)
 
-> Benzaiten (弁才天, 弁財天)
->
 > ... the goddess of everything that flows: water, time, words, speech, eloquence, music and by extension, knowledge.
 
-A pomodoro-armed to-do list that makes everything flow seamlessly!
+A to-do list that makes everything flow seamlessly!
 
 # Status
 `Inception`, a.k.a nothing yet!
@@ -27,7 +25,13 @@ TBC
 - [ ] Kanban view
     - [ ] Columns
     - [ ] Automation
+- [ ] Goals
+    - [ ] Setting your own goal with a deadline
+    - [ ] Create tasks that move the goal forward
 - [ ] Podoromo timer
+- [ ] Docs
+    - [ ] Simple Markdown docs
+    - [ ] Linking between docs and tasks
 
 # Rationale
 
@@ -51,7 +55,7 @@ As such, Benzaiten is designed to address these things, and being absolutely fre
 
 # License
 
-Copyright © 2021 FIXME
+Copyright © 2021 Rex Truong
 
 This program and the accompanying materials are made available under the
 terms of the Eclipse Public License 2.0 which is available at
